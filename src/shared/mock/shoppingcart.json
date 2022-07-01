@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "name": "Hamburgão",
+        "price": 25.00,
+        "img" : "/images/hamburger.png",
+        "type": "hamburger",
+        "items" : [
+            "2 hamburgeres", "1 alface", "1 queijo"
+        ],
+        "qtd" : 3
+    },
+    {
+        "id": "2",
+        "name": "Dogão",
+        "price": 25.00,
+        "img" : "/images/hotdog.png",
+        "type": "hot-dog",
+        "items" : [
+            "2 salsichas", "queijo", "presunto", "purê"
+        ],
+        "qtd" : 2
+    }
+]
